@@ -13,13 +13,25 @@ body{
     padding: 18px;
 }
 #conteudo{
-    background: #e8e8d9; 
+    background: #e8e8d9;
     padding: 10px; 
 }
+#rodape 
+{
+text-align: center;
+}
+
 a{
     color: #4b566a ;
     text-decoration: none;
     font-weight: bold;
    
     padding: 5px;
+}
+h1{
+    color: #828271;
+    font-size: 1.2em;
+}
+.img_campanhas{
+    border: 10px solid #c3c3ae;
 }
