@@ -2,7 +2,6 @@
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/73719899/113232731-18828280-9274-11eb-8916-b5421da46913.gif)
 
 ## 📜 Índice
-- [📜 Índice](#-índice)
 - [📝 Sobre](#-sobre)
 - [👾 Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [💻 Como baixar o projeto](#-como-baixar-o-projeto)
